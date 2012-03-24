@@ -1,10 +1,10 @@
 === Plugin Name ===
-Contributors: WebHostingCondo
-Donate link: http://www.webhostingcondo.com
+Contributors: Podz	
+Donate link: 
 Tags: plugin, plugins, admin, compression, gzip, page, post, blog
 Requires at least: 2.0.2
 Tested up to: 3.3.0
-Stable tag: 1.0.3
+Version: 1.5
 
 This plugin allows you to compress your webpages to save bandwidth and make your blog load faster!
 

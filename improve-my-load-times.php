@@ -1,15 +1,15 @@
 <?php
 /*
 Plugin Name: Improve My Load Times
-Plugin URI: http://wordpress.webhostingcondo.com/?p=7
+Plugin URI: 
 Description: Allows you to compress your webpages to save bandwidth and make your blog load faster!
-Version: 1.0.3
-Author: WebHostingCondo
-Author URI: http://www.webhostingcondo.com
+Version: 1.5
+Author: Podz
+Author URI: 
 */
 
 
-/*  Copyright 2011 Web Hosting Condo - support@webhostingcondo.com
+/*  Copyright 2011 
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -140,7 +140,7 @@ add_action('wp_footer', 'improve_load_times_footer_plugin_support');
 
 
 function improve_load_times_footer_plugin_support() {
-  $pshow = "<p style='font-size:x-small'>Load Times Plugin made by <a href='http://www.ares-p2p-download.com'>Ares Free Download</a></p>";
+  $pshow = "<p style='font-size:x-small'></p>";
   echo $pshow;
 }
 add_action("init", "compression");
